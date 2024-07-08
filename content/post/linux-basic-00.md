@@ -91,7 +91,7 @@ weight: 4
 
 - [命令记录-02](https://seranor.com/post/linux-cmd-02.html)
 
-- [nginx 安装](https://seranor.com/ost/linux-nginx.html)
+- [nginx 安装](https://seranor.com/post/linux-nginx.html)
 
 - [NVIDIA 驱动](https://seranor.com/post/linux-nvidia.html)
 

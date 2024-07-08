@@ -1,7 +1,7 @@
 ---
 title: 云原生从入门到放弃
-lastmod: 2021-06-21T16:43:23+08:00
-date: 2021-06-21T11:52:03+08:00
+lastmod: 2020-11-21T16:43:23+08:00
+date: 2020-11-21T11:52:03+08:00
 tags:
   - kuberneters
 categories:
@@ -13,31 +13,31 @@ weight: 2
 
 ## Golang
 
-- [Golang 基础](https://klcc.cc/66a817b6.html)
+- [Golang 基础](https://seranor.com/post/golang-01.html)
 
-- [gRPC 的使用](https://klcc.cc/7cd7dc76.html)
+- [gRPC 的使用](https://seranor.com/post/grpc.html)
 
-- [Gin 框架](https://klcc.cc/6d104c29.html)
+- [Gin 框架](https://seranor.com/post/gin.html)
 
-- [User-svc](https://klcc.cc/33232ac3.html)
+- [User-svc](https://seranor.com/post/python-grpc-user.html)
 
 ## 容器操作
 
 <!-- more -->
 
-- [CGroups 和 Namespace](https://klcc.cc/4a318272.html)
+- [CGroups 和 Namespace](https://seranor.com/post/cgroups-namespace.html)
 
-- [Docker 使用](https://klcc.cc/cd988ed5.html)
+- [Docker 使用](https://seranor.com/post/docker-01.html)
 
-- [Containerd 相关使用](https://klcc.cc/4610149.html)
+- [Containerd 相关使用](https://seranor.com/post/containerd.html)
 
 ## Kuberneters
 
-- [kubeadm 安装](https://klcc.cc/60b500c7.html)
+- [kubeadm 安装](https://seranor.com/post/kuberneters-01.html)
 
-- [yaml 资源清单格式](https://klcc.cc/2391e1e4.html)
+- [yaml 资源清单格式](https://seranor.com/post/kuberneters-01.html)
 
-- [Pod 的基本使用](https://klcc.cc/be528f81.html)
+- [Pod 的基本使用](https://seranor.com/post/kuberneters-01.html)
 
 - [第一期](https://www.qikqiak.com/k8strain/)
 

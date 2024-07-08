@@ -7,7 +7,6 @@ tags:
   - Golang
 categories:
   - Gin
-  - Golang
 url: post/gin.html
 toc: true
 ---

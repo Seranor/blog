@@ -1,7 +1,7 @@
 ---
 title: Linux从运维到放弃
-lastmod: 2021-06-21T16:43:23+08:00
-date: 2021-06-21T11:52:03+08:00
+lastmod: 2020-11-21T16:43:23+08:00
+date: 2020-11-21T11:52:03+08:00
 tags:
   - Linux
 categories:
@@ -15,88 +15,88 @@ weight: 4
 
 <!-- more -->
 
-- [Linux 安装、远程连接](https://klcc.cc/20cf8e98.html)
+- [Linux 安装、远程连接](https://seranor.com/post/linux-01.html)
 
-- [Linux 目录结构](https://klcc.cc/5e2eb880.html)
+- [Linux 目录结构](https://seranor.com/post/linux-02.html)
 
-- [vim 的使用](https://klcc.cc/627226e0.html)
+- [vim 的使用](https://seranor.com/post/linux-03.html)
 
-- [Linux 系统目录结构](https://klcc.cc/684b776b.html)
+- [Linux 系统目录结构](https://seranor.com/post/linux-04.html)
 
-- [Linux 文件管理](https://klcc.cc/117ba17a.html)
+- [Linux 文件管理](https://seranor.com/post/linux-05.html)
 
-- [Linux 用户管理](https://klcc.cc/ef277b25.html)
+- [Linux 用户管理](https://seranor.com/post/linux-06.html)
 
-- [Linux 文件权限管理](https://klcc.cc/ad5612ad.html)
+- [Linux 文件权限管理](https://seranor.com/post/linux-07.html)
 
-- [Linux 包管理及压缩命令](https://klcc.cc/891d6bd.html)
+- [Linux 包管理及压缩命令](https://seranor.com/post/linux-08.html)
 
-- [Linux 系统优化及定时任务](https://klcc.cc/c3540fc.html)
+- [Linux 系统优化及定时任务](https://seranor.com/post/linux-09.html)
 
-- [Linux 文本处理和 find 命令](https://klcc.cc/47edf33b.html)
+- [Linux 文本处理和 find 命令](https://seranor.com/post/linux-10.html)
 
-- [Linux 三剑客](https://klcc.cc/bfa86649.html)
+- [Linux 三剑客](https://seranor.com/post/linux-11.html)
 
-- [Linux 命令总结](https://klcc.cc/51ea15a6.html)
+- [Linux 命令总结](https://seranor.com/post/linux-12.html)
 
-- [Linux 磁盘挂载分区](https://klcc.cc/f9ef965d.html)
+- [Linux 磁盘挂载分区](https://seranor.com/post/linux-13.html)
 
-- [Linux 防火墙 iptables](https://klcc.cc/2efe136b.html)
+- [Linux 防火墙 iptables](https://seranor.com/post/linux-14.html)
 
-- [VPN 搭建使用](https://klcc.cc/7efc43b.html)
+- [VPN 搭建使用](https://seranor.com/post/linux-15.html)
 
-- [Rsync 使用](https://klcc.cc/340a13f1.html)
+- [Rsync 使用](https://seranor.com/post/linux-16.html)
 
-- [NFS 搭建使用](https://klcc.cc/e15f268d.html)
+- [NFS 搭建使用](https://seranor.com/post/linux-17.html)
 
-- [LNMP 架构](https://klcc.cc/37ea497d.html)
+- [LNMP 架构](https://seranor.com/post/linux-18.html)
 
-- [Nginx 介绍](https://klcc.cc/a72f05d4.html)
+- [Nginx 介绍](https://seranor.com/post/linux-19.html)
 
-- [Nginx 代理](https://klcc.cc/5a8f3b66.html)
+- [Nginx 代理](https://seranor.com/post/linux-20.html)
 
-- [Nginx 动静分离](https://klcc.cc/2211e793.html)
+- [Nginx 动静分离](https://seranor.com/post/linux-21.html)
 
-- [Keepalived 高可用](https://klcc.cc/3cb7076b.html)
+- [Keepalived 高可用](https://seranor.com/post/linux-22.html)
 
 ## Ansible
 
-- [简介安装](https://klcc.cc/1452b361.html)
+- [简介安装](https://seranor.com/post/ansible-01.html)
 
-- [常用模块](https://klcc.cc/6beab3d3.html)
+- [常用模块](https://seranor.com/post/ansible-02.html)
 
-- [Playbook 的使用](https://klcc.cc/c3cdc4c2.html)
+- [Playbook 的使用](https://seranor.com/post/ansible-03.html)
 
-- [变量和 Register 的使用](https://klcc.cc/27816ec8.html)
+- [变量和 Register 的使用](https://seranor.com/post/ansible-04.html)
 
-- [Task 控制](https://klcc.cc/d30594ae.html)
+- [Task 控制](https://seranor.com/dpost/ansible-05.html)
 
-- [jinja2 和 Role](https://klcc.cc/658bdd20.html)
+- [jinja2 和 Role](https://seranor.com/post/ansible-06.html)
 
 - DevOps
 
-- [Git 使用](https://klcc.cc/ca675cd4.html)
+- [Git 使用](https://seranor.com/post/git.html)
 
-- [GitLab 安装使用](https://klcc.cc/82fee27f.html)
+- [GitLab 安装使用](https://seranor.com/post/gitlab.html)
 
-- [Jenkins 安装](https://klcc.cc/5d15ec84.html)
+- [Jenkins 安装](https://seranor.com/post/jenkins.html)
 
 ## python-shell
 
-- [简单的小脚本](https://klcc.cc/b7b3c952.html)
+- [简单的小脚本](https://seranor.com/post/python-shell.html)
 
 ## 其他整理
 
-- [命令记录-01](https://klcc.cc/afb08e91.html)
+- [命令记录-01](https://seranor.com/post/linux-cmd-01.html)
 
-- [命令记录-02](https://klcc.cc/36b9df2b.html)
+- [命令记录-02](https://seranor.com/post/linux-cmd-02.html)
 
-- [nginx 安装](https://klcc.cc/13085aa8.html)
+- [nginx 安装](https://seranor.com/ost/linux-nginx.html)
 
-- [NVIDIA 驱动](https://klcc.cc/b9c60b23.html)
+- [NVIDIA 驱动](https://seranor.com/post/linux-nvidia.html)
 
-- [Bond 配置](https://klcc.cc/c2b5b878.html)
+- [Bond 配置](https://seranor.com/post/linux-bond4.html)
 
-- [LVM 扩容](https://klcc.cc/ad0d2046.html)
+- [LVM 扩容](https://seranor.com/post/linux-lvm.html)
 
-- [常用软件部署安装](https://klcc.cc/2631bbe2.html)
+- [常用软件部署安装](https://seranor.com/post/linux-software.html)

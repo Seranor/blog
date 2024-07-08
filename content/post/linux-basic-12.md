@@ -1,7 +1,7 @@
 ---
 title: Linux命令总结
-lastmod: 2021-06-21T16:43:23+08:00
-date: 2021-06-21T11:52:03+08:00
+lastmod: 2020-11-21T16:43:23+08:00
+date: 2020-11-21T11:52:03+08:00
 tags:
   - Linux
 categories:

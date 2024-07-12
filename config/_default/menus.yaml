@@ -21,16 +21,37 @@ main:
     pageref: /
     pre: home
     weight: 1
+    
   - identifier: about
     name: 关于
     pageref: /about.html
     pre: user
     weight: 2
+
   - identifier: archives
     name: 归档
     pageref: /archives
     pre: archive
     weight: 3
+
+  - identifier: Chat
+    name: Chat
+    url: https://chat.seranor.com/
+    pre: comments
+    weight: 4
+
+  - identifier: Docker
+    name: Docker
+    url: https://docker.seranor.com/
+    pre: cloud
+    weight: 5
+
+  - identifier: Status
+    name: Status
+    url: https://status.seranor.com/
+    pre: check
+    weight: 6
+
   # - identifier: commonweal
   #   name: 公益 404
   #   url: /404.html

@@ -100,3 +100,5 @@ weight: 4
 - [LVM 扩容](https://seranor.com/post/linux-lvm.html)
 
 - [常用软件部署安装](https://seranor.com/post/linux-software.html)
+
+- [Squid实现代理上网](https://seranor.com/post/linux-squid.html)

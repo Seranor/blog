@@ -4,7 +4,8 @@ vendors:
   cdnjs: "https://cdnjs.cloudflare.com/ajax/libs"
   unpkg: "https://unpkg.com"
   bootcdn: "https://cdn.bootcdn.net/ajax/libs"
-  qiniu: "https://cdn.staticfile.org"
+  qiniu: "https://cdnjs.cloudflare.com/ajax/libs"
+  # qiniu: "https://cdn.staticfile.org"
 
 # JavaScript 资源
 # JavaScript Resources
@@ -15,6 +16,7 @@ js:
   - name: viewerjs
     version: 1.11.0
     file: dist/viewer.min.js
+
 
 # CSS 资源
 # CSS Resources

@@ -962,7 +962,7 @@ vendors:
   # The default CDN provider of third-party plugins.
   # Available values: local | unpkg | cdnjs| qiniu | bootcdn | custom
   # Dependencies for `plugins: local`: https://github.com/next-theme/plugins
-  plugins: qiniu
+  plugins: cdnjs
   # TODO
   # Custom CDN URL
   # For example:

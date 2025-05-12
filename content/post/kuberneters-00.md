@@ -8,7 +8,7 @@ categories:
   - kuberneters
 url: post/kuberneters-00.html
 toc: true
-weight: 2
+weight: 3
 ---
 
 ## Golang

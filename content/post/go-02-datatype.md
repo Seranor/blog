@@ -1,3 +1,15 @@
+---
+title: golang基础-基本数据类型
+lastmod: 2025-05-09T16:43:23+08:00
+date: 2025-05-09T17:52:03+08:00
+tags:
+  - Golang
+categories:
+  - Golang
+url: post/go-02.html
+toc: true
+---
+
 ## 基本数据类型
 
 Go语言中有丰富的数据类型，除了基本的整型、浮点型、布尔型、字符串外，还有数组、切片、结构体、函数、map、通道（channel）等。Go 语言的基本类型和其他语言大同小异。

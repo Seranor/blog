@@ -1,3 +1,15 @@
+---
+title: golang基础-变量和常量
+lastmod: 2025-05-08T16:43:23+08:00
+date: 2025-05-08T17:52:03+08:00
+tags:
+  - Golang
+categories:
+  - Golang
+url: post/go-01.html
+toc: true
+---
+
 ## hello world
 
 ```go

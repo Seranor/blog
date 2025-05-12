@@ -1,3 +1,15 @@
+---
+title: golang文件操作
+lastmod: 2025-05-09T16:43:23+08:00
+date: 2025-05-09T17:52:03+08:00
+tags:
+  - Golang
+categories:
+  - Golang
+url: post/go-fileoperation.html
+toc: true
+---
+
 ## 文件操作
 
 ### 写文件

@@ -8,7 +8,7 @@ categories:
   - Linux
 url: post/linux-00.html
 toc: true
-weight: 5
+weight: 6
 ---
 
 ## Linux 基础

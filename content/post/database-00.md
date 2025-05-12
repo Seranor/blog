@@ -8,7 +8,7 @@ categories:
   - MySQL
 url: post/mysql-00.html
 toc: true
-weight: 4
+weight: 5
 ---
 
 <!-- more -->

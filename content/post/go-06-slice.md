@@ -236,7 +236,32 @@ func main() {
 	sort.Ints(a[:])
 	fmt.Println(a)
 ```
+### 其他操作
+```go
+package main
 
+import (
+	"fmt"
+	"sort"
+)
+
+func main() {
+	// 在开头位置插入元素方法
+	/*	var arr = []int{1, 2, 3, 4, 5}
+		var val = 6
+		fmt.Println(append([]int{val}, arr...))*/
+
+	// 在任意位置插入元素
+	/*	var arr = []int{1, 2, 3, 4, 5}
+		var val = 6
+		var index = 2
+		var s1 = arr[:index]
+		var s2 = arr[index:]
+		arr = append(s1, append([]int{val}, s2...)...)
+		fmt.Println(arr)*/
+}
+
+```
 ### 排序和比较
 
 ```go

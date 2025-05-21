@@ -1,7 +1,7 @@
 ---
 title: golang基础-接口
 lastmod: 2025-05-21T16:43:23+08:00
-date: 2025-05-21T17:52:03+08:00
+date: 2025-05-19T17:52:03+08:00
 tags:
   - Golang
 categories:

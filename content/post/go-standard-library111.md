@@ -6,7 +6,7 @@ tags:
   - Golang
 categories:
   - Golang
-url: post/go-fileoperation.html
+url: post/go-standard-library.html
 toc: true
 ---
 
